@@ -58,7 +58,8 @@ I learned that planning how to approach the project before diving to the project
 
 ## Author
 
-- Frontend Mentor - [@Ermiyato](https://www.frontendmentor.io/profile/Ermiyato) 
+- Frontend Mentor - [@Ermi-Yato](https://www.frontendmentor.io/profile/Ermi-Yato) 
+- Github - [@Ermi-Yato](https://github.com/Ermi-Yato) 
 
 ## Acknowledgments
 
